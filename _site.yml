@@ -1,0 +1,27 @@
+name: "Course Website for Biol 417"
+navbar:
+  title: "Biol 417 Evolutionary Ecology &mdash; UBC-Okanagan"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Lectures"
+      href: Lectures.html
+    - text: "Essays"
+      menu:
+        - text: "Essay 01"
+          href: 01_R_Introduction.html
+        - text: "Essay 02"
+          href: 02_Regression.html
+        - text: "Essay 03"
+          href: 03_MLR_Residuals.html        
+
+output_dir: "."
+output:
+  html_document:
+    css: tutorial.css
+    fig_caption: yes
+    highlight: textmate
+    theme: flatly
+    toc: yes
+    toc_float: yes
+
