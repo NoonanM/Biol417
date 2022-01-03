@@ -56,9 +56,9 @@ Beginning the second week of the semester, students will be asked to write a sho
 * What are the main results and what conclusions are expected to be drawn from the paper?
 * How much confidence in the obtained results are implied by the author(s)?
 * Is this confidence justified in your opinion?
-- were the authors scrupulous in discussing their results?
-- were there any weaknesses or limitations in the approach used by the authors?
-- can you think of an alternative interpretation not discussed by the authors?
+    - were the authors scrupulous in discussing their results?
+    - were there any weaknesses or limitations in the approach used by the authors?
+    - can you think of an alternative interpretation not discussed by the authors?
 
 __Submission__: It is expected that the assignment be submitted via Canvas as a word document or PDF (your choice). Paper summaries submitted by email will not be accepted unless agreed upon beforehand with the instructor. 
 
@@ -73,7 +73,7 @@ __Submission__: Essays are to be submitted as word documents or PDFs (your choic
 __Grading__: Each essay will be graded based on the pre-provided rubric, and will be worth a total of 16% of your final grade. Late essays will have 10% deducted per day that they are overdue and will receive a grade of zero if more than 10 days late without a valid reason.
 
 ### Research Proposal (20%)
-Students will prepare a research proposal that will review a topic in evolutionary ecology and outline a plan to address a research question that would advance the field. The proposal should be comprised of the following five sections:
+Students will prepare a research proposal that will review a topic in evolutionary ecology and outline a plan to address a research question that would advance the field. The proposal should be comprised of the following five sections:
 
 _Introduction_: Provide a description of the system on which the proposed project will focus, citing all relevant literature. Explain what big picture question you are addressing, what work has been done on this topic to date, and why the system you have chosen to work with is a good model for tackling this research question. Length: ca. 2 pages.
 
