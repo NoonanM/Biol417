@@ -6,14 +6,18 @@ navbar:
       href: index.html
     - text: "Lectures"
       href: Lectures.html
+    - text: "Paper Summaries"
+      menu:
+        - text: "Paper Summary 01"
+          href: Summary_01.html
     - text: "Essays"
       menu:
         - text: "Essay 01"
-          href: 01_R_Introduction.html
+          href: Essay_01.html
         - text: "Essay 02"
-          href: 02_Regression.html
+          href: Essay_02.html
         - text: "Essay 03"
-          href: 03_MLR_Residuals.html        
+          href: Essay_03.html        
 
 output_dir: "."
 output:
