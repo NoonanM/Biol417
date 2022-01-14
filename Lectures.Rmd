@@ -3,15 +3,20 @@ title: "Course lectures for Biol 417: Evolutionary Ecology"
 output: html_document
 ---
   
-  ```{r setup, include=FALSE}
+```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Lecture slides and recordings for Biol 417: Evolutionary Ecology, 2022.
 
-### Lecture 01
+### Lecture 01 - Course Intro
 
 <a href="Lectures/01_Course_Intro.pdf" target="_blank">Lecture 01 Course Intro - Slides.</a>
 
 <a href="https://ubc.zoom.us/rec/share/zY1IScSPfAEpv6w8QYunsX5hXF9YY_mBx-YhSE3AB56YFZFG-enIXjjbzuH_YmnJ.HkLewg6Tvxj3SXNr?startTime=1641859303000" target="_blank">Lecture 01 Course Intro - Recording.</a>
 
+### Lecture 02 - The Scope of Evolutionary Ecology
+
+<a href="Lectures/02_Scope_of_Evol_Ecol.pdf" target="_blank">Lecture 02 The Scope of Evolutionary Ecology - Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/pq0NlI2zF3Bw2On2hk0R0jhkNoR9MEVjAtMe4FmCDTV8JEQagF7-D-Lu_mMkA2Q.nwC3sET1n64XNWUy?startTime=1642032048000" target="_blank">Lecture 02 The Scope of Evolutionary Ecolology - Recording.</a>
