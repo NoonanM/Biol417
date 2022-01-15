@@ -20,3 +20,10 @@ Lecture slides and recordings for Biol 417: Evolutionary Ecology, 2022.
 <a href="Lectures/02_Scope_of_Evol_Ecol.pdf" target="_blank">Lecture 02 The Scope of Evolutionary Ecology - Slides.</a>
 
 <a href="https://ubc.zoom.us/rec/share/pq0NlI2zF3Bw2On2hk0R0jhkNoR9MEVjAtMe4FmCDTV8JEQagF7-D-Lu_mMkA2Q.nwC3sET1n64XNWUy?startTime=1642032048000" target="_blank">Lecture 02 The Scope of Evolutionary Ecolology - Recording.</a>
+
+
+### Lecture 03 - Selection and Adaptation
+
+<a href="Lectures/03_Selection_Adaptation.pdf" target="_blank">Lecture 02 Selection and Adaptation - Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/F-83OhehOF0quFpSLYq-LEzJMgmi_i-beicWOKIueet93U6cEWDZxz94PnZdru2q.EwBL8I1DSfz_dDy3?startTime=1642204919000" target="_blank">Lecture 03 Selection and Adaptation - Recording.</a>
