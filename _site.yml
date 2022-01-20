@@ -10,6 +10,8 @@ navbar:
       menu:
         - text: "Paper Summary 01"
           href: Summary_01.html
+        - text: "Paper Summary 02"
+          href: Summary_02.html
     - text: "Essays"
       menu:
         - text: "Essay 01"

@@ -34,3 +34,11 @@ Lecture slides and recordings for Biol 417: Evolutionary Ecology, 2022.
 
 <a href="https://ubc.zoom.us/rec/share/WBy2jNRTk4Tpe8UZpSaeHMJRFwqnCIg0v-63BAEPoJME6J6inu70fzv-Kh45qjFw.TiKhuglqHpOG1pCX?startTime=1642464073000" target="_blank">Lecture 04 Studying Evolutionary Ecology 1: Experimentation - Recording.</a>
 
+### Lecture 05 - Studying Evolutionary Ecology 1: Comparative Methods
+
+<a href="Lectures/05_Comparative_Methods.pdf" target="_blank">Lecture 05 - Studying Evolutionary Ecology 1: Comparative Methods - Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/IYWR5svXVUmWJAighC5uQResnig27wts0K57Zb0Jwuust19LAbOr7wOJWbqv8bTE.YdVxAUo9SrAr5I6t?startTime=1642636957000" target="_blank">Lecture 05 - Studying Evolutionary Ecology 1: Comparative Methods - Recording.</a>
+
+
+
