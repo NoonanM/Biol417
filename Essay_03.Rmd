@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 __Essay Question__:
 
-TBD
+Pick any animal species. Describe the chosen species' social system and use the hypotheses covered in the lectures to provide an explanation for how their social system evolved.
 
  
 

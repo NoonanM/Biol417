@@ -9,41 +9,122 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Lecture slides and recordings for Biol 417: Evolutionary Ecology, 2022.
 
+<br />
+
+***
+# The Scope of Evolutionary Ecology
+
 ### Lecture 01 - Course Intro
 
-<a href="Lectures/01_Course_Intro.pdf" target="_blank">Lecture 01 Course Intro - Slides.</a>
+<a href="Lectures/01_Course_Intro.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/zY1IScSPfAEpv6w8QYunsX5hXF9YY_mBx-YhSE3AB56YFZFG-enIXjjbzuH_YmnJ.HkLewg6Tvxj3SXNr?startTime=1641859303000" target="_blank">Lecture 01 Course Intro - Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/zY1IScSPfAEpv6w8QYunsX5hXF9YY_mBx-YhSE3AB56YFZFG-enIXjjbzuH_YmnJ.HkLewg6Tvxj3SXNr?startTime=1641859303000" target="_blank">Recording.</a>
 
 ### Lecture 02 - The Scope of Evolutionary Ecology
 
-<a href="Lectures/02_Scope_of_Evol_Ecol.pdf" target="_blank">Lecture 02 The Scope of Evolutionary Ecology - Slides.</a>
+<a href="Lectures/02_Scope_of_Evol_Ecol.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/pq0NlI2zF3Bw2On2hk0R0jhkNoR9MEVjAtMe4FmCDTV8JEQagF7-D-Lu_mMkA2Q.nwC3sET1n64XNWUy?startTime=1642032048000" target="_blank">Lecture 02 The Scope of Evolutionary Ecolology - Recording.</a>
-
+<a href="https://ubc.zoom.us/rec/share/pq0NlI2zF3Bw2On2hk0R0jhkNoR9MEVjAtMe4FmCDTV8JEQagF7-D-Lu_mMkA2Q.nwC3sET1n64XNWUy?startTime=1642032048000" target="_blank">Recording.</a>
 
 ### Lecture 03 - Selection and Adaptation
 
-<a href="Lectures/03_Selection_Adaptation.pdf" target="_blank">Lecture 03 Selection and Adaptation - Slides.</a>
+<a href="Lectures/03_Selection_Adaptation.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/F-83OhehOF0quFpSLYq-LEzJMgmi_i-beicWOKIueet93U6cEWDZxz94PnZdru2q.EwBL8I1DSfz_dDy3?startTime=1642204919000" target="_blank">Lecture 03 Selection and Adaptation - Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/F-83OhehOF0quFpSLYq-LEzJMgmi_i-beicWOKIueet93U6cEWDZxz94PnZdru2q.EwBL8I1DSfz_dDy3?startTime=1642204919000" target="_blank">Recording.</a>
+
+<br />
+
+***
+# Methods for Studying Evolutionary Ecology
 
 ### Lecture 04 - Studying Evolutionary Ecology 1: Experimentation
 
-<a href="Lectures/04_Studying_Evolution_1.pdf" target="_blank">Lecture 04 Studying Evolutionary Ecology 1: Experimentation - Slides.</a>
+<a href="Lectures/04_Studying_Evolution_1.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/WBy2jNRTk4Tpe8UZpSaeHMJRFwqnCIg0v-63BAEPoJME6J6inu70fzv-Kh45qjFw.TiKhuglqHpOG1pCX?startTime=1642464073000" target="_blank">Lecture 04 Studying Evolutionary Ecology 1: Experimentation - Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/WBy2jNRTk4Tpe8UZpSaeHMJRFwqnCIg0v-63BAEPoJME6J6inu70fzv-Kh45qjFw.TiKhuglqHpOG1pCX?startTime=1642464073000" target="_blank">Recording.</a>
 
 ### Lecture 05 - Studying Evolutionary Ecology 1: Comparative Methods
 
-<a href="Lectures/05_Comparative_Methods.pdf" target="_blank">Lecture 05 - Studying Evolutionary Ecology 1: Comparative Methods - Slides.</a>
+<a href="Lectures/05_Comparative_Methods.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/IYWR5svXVUmWJAighC5uQResnig27wts0K57Zb0Jwuust19LAbOr7wOJWbqv8bTE.YdVxAUo9SrAr5I6t?startTime=1642636957000" target="_blank">Lecture 05 - Studying Evolutionary Ecology 1: Comparative Methods - Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/IYWR5svXVUmWJAighC5uQResnig27wts0K57Zb0Jwuust19LAbOr7wOJWbqv8bTE.YdVxAUo9SrAr5I6t?startTime=1642636957000" target="_blank">Recording.</a>
 
 ### Lecture 06 - Studying Evolutionary Ecology 3: Mathematical Models
 
-<a href="Lectures/06_Studying_Evolution_3.pdf" target="_blank">Lecture 06 - Studying Evolutionary Ecology 3: Mathematical Models - Slides.</a>
+<a href="Lectures/06_Studying_Evolution_3.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/eaBxjfIeDz0mH25jhnUCwFUXNYzkrGREQWrl3bKgSkbXoGt_Jn5fWlIQd-WeEw2z.YpPXrWgAKeBFwq3D?startTime=1642809707000" target="_blank">Lecture 06 - Studying Evolutionary Ecology 3: Mathematical Models - Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/eaBxjfIeDz0mH25jhnUCwFUXNYzkrGREQWrl3bKgSkbXoGt_Jn5fWlIQd-WeEw2z.YpPXrWgAKeBFwq3D?startTime=1642809707000" target="_blank">Recording.</a>
+
+<br />
+
+***
+# Biogeography and the Habitat Templet
+
+### Lecture 07 - Meteorology and Geographic Change
+
+<a href="Lectures/07_Meteorology.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/0g3Lmd4oLng3jJBfKeWT-tV7xTbVUjcnLbEEPO2hrNTer3gHxp-NFmcR9Oe6LsOA.aKXmPxijXNIxSWxd?startTime=1643068907000" target="_blank">Recording.</a>
+
+### Lecture 08 - The Habitat Templet
+
+<a href="Lectures/08_HabitatTemplet.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/GglBTG8DgdSPBd2NntpWi1NCkrRivuQ332kbSdOdeEJz1ieWmKkSr70NEuhD27Rz.I_w7HWan4BCRqp7P?startTime=1643241709000" target="_blank">Recording.</a>
+
+### Lecture 09 - Biogeography
+
+<a href="Lectures/09_Biogeography.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/Ld8vjHLYrIo2PK_uEleUobpyGGjSHcnHzfZ5p_WU8_pTHX76Blc_Q0V4pVQYlff9.-iSyRq8cBEEJ8Dpe?startTime=1643414433000" target="_blank">Recording.</a>
 
 
+<br />
+
+***
+# The Ecological Niche
+
+### Lecture 10 - The Ecological Niche Part 1: Competition
+
+<a href="Lectures/10_The_Ecological_Niche.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/D-31NVCP1jjJtuFaNglmGm1khU0Z2zsPXVyBF5-ghC2WFveAbwIArkWAVw21-guF.vD-gnSLJ6ATCon3g?startTime=1643673699000" target="_blank">Recording.</a>
+
+### Lecture 11 - The Ecological Niche Part 2: Specialists vs. Generalists
+
+<a href="Lectures/11_The_Ecological_Niche.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/94H-jdhRxqAtnhVwVbdNVPXGaWFbIPz1IT5D8ZSj6MHgs9sWfi6Bgu3_Fzfz8x0j.d3iDiIuEpTdTSVbo?startTime=1643846438000" target="_blank">Recording.</a>
+
+### Lecture 12 - The Ecological Niche Part 3: Specialists vs. Generalists II
+
+<a href="Lectures/12_The_Ecological_Niche_3.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/c7FoEfX7aD3ZiF73klzfBhuSld9hrPop6lx0aqPxqjD7k8pg99tMmhOmT0yAdXHi.intn6pCPSVwyjQ-y?startTime=1644019272000" target="_blank">Recording.</a>
+
+### Lecture 13 - The Ecological Niche Part 4: Environmental Adaptation
+
+<a href="Lectures/13_The_Ecological_Niche_4.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/0IQ8FRGqjfHlX3BHDyoefpgsCpFTbkvaeZ1am-OmzWs34j8ltqYQbH0Jhic2KI0.PIf1x9tK1m4y5Bdi?startTime=1644278387000" target="_blank">Recording.</a>
+
+<br />
+
+***
+# Specialising on Environmental Change
+
+### Lecture 14 - Specialising on Change Part 1: Migration
+
+<a href="Lectures/14_Change_Specialists.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/KDAzfWcF2Iqu5_7Fu9vmRUVYDv-O4-rG7JvpauRvY7jzbiq6eJDHsljXI6HZ3iBx.vR9HlCehSONqziTR?startTime=1644451113000" target="_blank">Recording.</a>
+
+### Lecture 15 - Specialising on Change Part 2: Dormancy
+
+<a href="Lectures/15_Change_Specialists_2.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/qkiEKPnrxklU9eHj-mR459B3BwK-Skf8GBpUhRIjC3A-dpwTtXgYhZxWh_5gI0gT.h7raeEUYus06tB68?startTime=1644624036000" target="_blank">Recording.</a>
+
+### Lecture 16 - Specialising on Change Part 3: Energetics
+
+<a href="Lectures/16_Change_Specialists_3.pdf" target="_blank">Slides.</a>

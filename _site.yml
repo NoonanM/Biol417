@@ -12,6 +12,18 @@ navbar:
           href: Summary_01.html
         - text: "Paper Summary 02"
           href: Summary_02.html
+        - text: "Paper Summary 03"
+          href: Summary_03.html
+        - text: "Paper Summary 04"
+          href: Summary_04.html
+        - text: "Paper Summary 05"
+          href: Summary_05.html
+        - text: "Paper Summary 06"
+          href: Summary_06.html
+        - text: "Paper Summary 07"
+          href: Summary_07.html
+        - text: "Paper Summary 08"
+          href: Summary_08.html
     - text: "Essays"
       menu:
         - text: "Essay 01"

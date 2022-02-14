@@ -1,0 +1,32 @@
+---
+title: "Course lectures for Biol 417: Evolutionary Ecology"
+output: html_document
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Paper Summary 08
+
+__Assigned paper__:
+
+Safi, K., & Kerth, G. (2004). A comparative analysis of specialization and extinction risk in temperate‐zone bats. Conservation biology, 18(5), 1293-1303. https://doi.org/10.1111/j.1523-1739.2004.00155.x
+
+ 
+
+__Instructions__:
+
+The paper summaries should be no longer than one page (single spaced using a 12-point font). References should be included with the report but do not count towards the total length. The following points should be covered (not necessarily in the order given):
+
+* What is/are the issue(s) addressed by the paper?
+* What is the underlying research approach taken by the paper (e.g., a manipulative experiment, a correlational study, a theoretical model, a literature review, etc.)?
+* What are the main results and what conclusions are expected to be drawn from the paper?
+* How much confidence in the obtained results are implied by the author(s)?
+* Is this confidence justified in your opinion?
+     - were the authors scrupulous in discussing their results?
+     - were there any weaknesses or limitations in the approach used by the authors?
+     - can you think of an alternative interpretation not discussed by the authors?
+ 
+
+__Submission__: It is expected that the assignment be submitted via Canvas as a word document or PDF (your choice). Paper summaries submitted by email will not be accepted unless agreed upon beforehand with the instructor.
