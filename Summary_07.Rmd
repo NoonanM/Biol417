@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 __Assigned paper__:
 
-Garant, D., Kruuk, L. E., Wilkin, T. A., McCleery, R. H., & Sheldon, B. C. (2005). Evolution driven by differential dispersal within a wild bird population. Nature, 433(7021), 60-65. https://doi.org/10.1038/nature03051
+Mumme, R. L., Schoech, S. J., Woolfenden, G. E., & Fitzpatrick, J. W. (2000). Life and death in the fast lane: Demographic consequences of road mortality in the Florida Scrub‐Jay. Conservation biology, 14(2), 501-512. https://www.jstor.org/stable/2641615
 
  
 

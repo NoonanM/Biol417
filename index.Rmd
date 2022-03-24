@@ -6,8 +6,12 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<br />
 
+***
 ## Course Description
+***
+<br />
 
 Biol 417 (3 credits) (Evolutionary Ecology)
 
@@ -15,17 +19,39 @@ Advanced survey of the field of evolutionary ecology: the study of the ecologica
 
 Prerequisite: BIOL 308 and one of BIOL 202, STAT 230
 
-## Course Objectives
+<br />
+
+### Course Objectives
 
 To obtain a familiarity with the field of Evolutionary Ecology. To develop numerical, written, and critical thinking skills.
 
 This course examines the evolutionary basis for a number of ecological phenomena. In the course of this examination, we will be exploring the theoretical and experimental approaches used in current investigations in this field.
 
-## Course Format
+<br />
+
+### Learning Outcomes
+
+After completing this course, students will be able to:
+
+* Define the scope of evolutionary ecology
+* Match methodological approaches to study questions
+* Link meteorology with species biogeography
+* Describe adaptations to predictable environmental change
+* Understand the ecological basis for sexual reproduction
+* Describe the ecological implications of sexual reproduction
+* Understand the factors promoting the evolution of sociality
+* Describe the relationship between biodiversity and community stability
+* Be able to apply evolutionary ecology in the context of Human Induced Rapid Environmental Change (HIREC)
+
+<br />
+
+### Course Format
 
 Weekly lectures. There are no midterm or final examinations for this course. Grading will be based on ca. weekly written assignments (details follow). Lecture slides will be provided to students the day after the lecture. All lectures will be recorded (subject to any technical glitches) and will be made available to students via Canvas.
 
-## Optional Material
+<br />
+
+### Optional Material
 
 There is no textbook for this course, but if students are interested in additional resources beyond the material covered in the lectures, the following textbooks are recommended:
 
@@ -35,20 +61,27 @@ There is no textbook for this course, but if students are interested in addition
 
 * Stearns, S. C., & Hoekstra, R. F. (2000). Evolution, an introduction. Oxford University Press. Available via UBC libraries: http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=3558025
 
+<br />
+
+***
 ## Course Evaluation
+***
+<br />
 
 |                        |         |                       |
 |------------------------|---------|-----------------------|
-|   Paper Summaries (8)  |   32%   |   See schedule below  |
+|   Paper Summaries (6 of 8)  |   30%   |   See schedule below  |
 |   Essays (3)           |   48%   |   See schedule below  |
-|   Research Proposal    |   20%   |   Week 14             |
+|   Research Proposal    |   22%   |   Week 13             |
 |   Total                |   100%  |                       |
 
 Final grades will be based on the evaluations listed above and will be assigned according to the standardized grading system outlined in the UBC Okanagan Calendar.
 
 Note: final grades may be scaled at the discretion of the instructor. Scaling will be consistently applied across all students.
 
-### Paper Summaries (32% – 8 summaries at 4% each)
+<br />
+
+### Paper Summaries (32% – 6 of 8 summaries at 5% each)
 Beginning the second week of the semester, students will be asked to write a short summary of a research paper that focuses on an area of evolutionary ecology. Papers will be assigned by the instructor and provided to students in advance. The paper summaries should be no longer than one page (single spaced using a 12-point font). References should be included with the report but do not count towards the total length. The following points should be covered (not necessarily in the order given):
 
 * What is/are the issue(s) addressed by the paper?
@@ -60,19 +93,29 @@ Beginning the second week of the semester, students will be asked to write a sho
     - were there any weaknesses or limitations in the approach used by the authors?
     - can you think of an alternative interpretation not discussed by the authors?
 
-__Submission__: It is expected that the assignment be submitted via Canvas as a word document or PDF (your choice). Paper summaries submitted by email will not be accepted unless agreed upon beforehand with the instructor. 
+__Submission__: It is expected that the assignment be submitted via Canvas as a word document or PDF (your choice). Paper summaries submitted by email will not be accepted unless agreed upon beforehand with the instructor. There are 8 assignments in total, but students only have to submit 6 of them. The choice of which assignments to submit is their. If a student chooses to submit all 8, the additional assignments will count as bonus assignments worth __2.5%__ of your final grade each
 
 __Grading__: Each summary will be marked on composition (i.e., spelling and grammatical competence), comprehension & logic, clarity, and coverage of points i)-v) listed above, and will be worth a total of 4% of your final grade. Late assignments will have 10% deducted per day that they are overdue and will receive a grade of zero if more than 10 days late without a valid reason.
  
+<br />
 
-### Essays (48%)
+### Essays (48%- 3 essays at 16% each)
 Students will be asked to complete three written essay assignments throughout the course (schedule below). These assignments are designed to provide students with an opportunity to consolidate what they have learned in the lectures and apply this knowledge to topics in evolutionary ecology of their own choosing. For each of these essays, students will receive a topic or question – both Canvas and the course web page will host the essay questions. Students will then be expected to write an essay addressing that topic or question using the material covered in class, as well as additional sources from the scientific literature. Students can expect the material covered in the lectures will provide sufficient information for structuring the essay around the assigned topic but are also expected to expand beyond the material covered in the lectures. The skills gained by completing each essay will help students learn how to think critically about core evolutionary ecology concepts and clearly communicate their ideas in written format.
 
 __Submission__: Essays are to be submitted as word documents or PDFs (your choice) and uploaded to canvas before the due date. The essays should be a minimum of five pages in length (double spaced using a 12-point font). Include references to all necessary literature in a format of your choosing. References must be included, but do not count towards the total length. 
 
 __Grading__: Each essay will be graded based on the pre-provided rubric, and will be worth a total of 16% of your final grade. Late essays will have 10% deducted per day that they are overdue and will receive a grade of zero if more than 10 days late without a valid reason.
 
-### Research Proposal (20%)
+Some useful guidance on writing essays can be found here:
+
+https://weblearn.ox.ac.uk/access/content/group/159bc1ca-0c7b-454c-8aad-c6c711affc04/Documents/acadwrit2013.pdf
+https://www.oxbridgeessays.com/blog/how-to-structure-an-essay/
+https://www.scribbr.com/category/academic-essay/
+https://www.grammarly.com/blog/essay-writing/
+
+<br />
+
+### Research Proposal (22%)
 Students will prepare a research proposal that will review a topic in evolutionary ecology and outline a plan to address a research question that would advance the field. The proposal should be comprised of the following five sections:
 
 _Introduction_: Provide a description of the system on which the proposed project will focus, citing all relevant literature. Explain what big picture question you are addressing, what work has been done on this topic to date, and why the system you have chosen to work with is a good model for tackling this research question. Length: ca. 2 pages.
@@ -90,21 +133,26 @@ __Submission__: Research proposals are to be submitted as word documents or PDFs
 
 __Grading__: The research proposal will be graded out of 100 and will be worth a total of 20% of your final grade. Late assignments will have 10% deducted per day that they are overdue and will receive a grade of zero if more than 10 days late without a valid excuse.
 
+<br />
+
+***
 ## Lecture Outline
+***
+<br />
 (Approximate schedule of topics covered in lectures)
 
 |   Week  |   Lecture Topics                                                                            |   Assignment Schedule                                   |
 |:-------:|---------------------------------------------------------------------------------------------|---------------------------------------------------------|
 |     1   |   Course Intro; Scope of Evolutionary Ecology; Selection and Adaptation                     |   No assignments due this week                          |
-|     2   |   Studying Evolutionary Ecology: Experimentation; Comparative Methods; Mathematical Models  |   Paper summary 1 (4%)                                  |
-|     3   |   Meteorology; The Habitat Template; Biogeography                                           |   Paper summary 2 (4%)                                  |
+|     2   |   Studying Evolutionary Ecology: Experimentation; Comparative Methods; Mathematical Models  |   Paper summary 1 (5%)                                  |
+|     3   |   Meteorology; The Habitat Template; Biogeography                                           |   Paper summary 2 (5%)                                  |
 |     4   |   The Ecological Niche; Competition; Specialists vs. Generalists; Environmental Change      |   Essay 1: Biogeography and the habitat template (16%)  |
-|     5   |   Specialising on Environmental Change: Migration, Dormancy, Energetics                     |   Paper summary 3 (4%)                                  |
-|     6   |   Specialising on Change: Burrowing, Correlative Effects; Stochasticity and Space Use       |   Paper summary 4 (4%)                                  |
+|     5   |   Specialising on Environmental Change: Migration, Dormancy, Energetics                     |   Paper summary 3 (5%)                                  |
+|     6   |   Specialising on Change: Burrowing, Correlative Effects; Stochasticity and Space Use       |   Paper summary 4 (5%)                                  |
 |     7   |   The Ecology of Sex: Costs and Benefits; Ecology of Sex, Males and Females                 |   Essay 2: Specialising on Environmental Change (16%)   |
-|     8   |   The Ecology of Sex: Sex Ratios; Sexual Selection, Mating Systems                          |   Paper summary 5 (4%)                                  |
-|     9   |   Inclusive fitness & sociality                                                             |   Paper summary 6 (4%)                                  |
-|     10  |   Information; signaling; learning Metabolic theory of ecology; Evolution of brain size     |   Essay 3: Sociality (16%)                              |
-|     11  |   Biodiversity and community stability                                                      |   Paper summary 7 (4%)                                  |
-|     12  |   Evolution and Human Induced Rapid Environmental Change (HIREC)                            |   Paper summary 8 (4%)                                  |
-|     13  |   Scope of evolutionary ecology revisited                                                   |   Research proposal (20%)                               |
+|     8   |   The Ecology of Sex: Sex Ratios; Sexual Selection, Mating Systems                          |   Paper summary 5 (5%)                                  |
+|     9   |   Socio-ecology: Spatial Groups; Predator Avoidance; Information Sharing;                                                             |   Paper summary 6 (5%)                                  |
+|     10  |   Socio-Ecology: Resource Dispersion; Philopatry and Delayed Dispersal; Badger Sociality    |   Essay 3: Sociality (16%)                              |
+|     11  |   Applied Evolutionary Ecology: Ecological and Evolutionary Traps; Road Ecology                                                      |   Paper summary 7 (5%)                                  |
+|     12  |   Applied Evolutionary Ecology: Road Ecology; Climate Change                            |   Paper summary 8 (5%)                                  |
+|     13  |   Scope of evolutionary ecology revisited                                                   |   Research proposal (22%)                               |

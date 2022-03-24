@@ -13,15 +13,18 @@ Pick any animal species. Describe the chosen species' social system and use the 
 
  
 
-_Points to consider_:
+_Hypotheses to cover_:
 
-TBD
+* __Predator Avoidance Hypothesis__: Aggregations serve to dilute the individual level predation threat.
 
- 
+* __Information Centre Hypothesis__: Aggregations provide individuals with information on the foraging activities of conspecifics.
 
-__Useful Resources__:
+* __Mate Guarding__: System specific. See lecture 26.
 
- 
+* __Resource Dispersion Hypothesis__: If the dispersion and renewal rate of local resources result in a territory that can viably accommodate multiple individuals, groups can arise without any specific benefits, assuming there are minimal costs to the 'primary territory holder'.
+
+* __Safe Haven Hypothesis__: The relative costs and benefits of philopatry predict patterns in group-living.
+
 
 __Instructions:__
 
