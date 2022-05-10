@@ -244,9 +244,53 @@ Lecture slides and recordings for Biol 417: Evolutionary Ecology, 2022.
 
 <a href="Lectures/30_Sociality_4.pdf" target="_blank">Slides.</a>
 
+<a href="https://ubc.zoom.us/rec/share/SYnctZ_WitdR5m3eyYYip551LJUr7eY45F0qF2XuErfP795kKj1Y02Ba0BjbBGin.ksGk1lzVvoYzBsKI?startTime=1648249218000" target="_blank">Recording.</a>
+
 <br />
 
 ***
 # Applied Evolutionary Ecology 
 ***
 <br />
+
+#### Lecture 31 - Ecological Traps
+
+<a href="Lectures/31_Applied_EvoEco_1.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/4FGt8Grh1dCrscxYToR8-Nbv9rUV5dIF5S2ZNIl6U3O9C-oKprEYZFF6kLlZPKr5.CD3CsRR7GqpE632Q?startTime=1648508559000" target="_blank">Recording.</a>
+
+#### Lecture 32 - Evolutionary Traps
+
+<a href="Lectures/32_Applied_EvoEco_2.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/IzXdqk_VFLJVvNo-u0MCFkwHBsN8fVS20MtS7oIC8BxKu02pLDirDTZAaaSkJQME.2Nnoqohn6RjN792q?startTime=1648681234000" target="_blank">Recording.</a>
+
+#### Lecture 33 - Road Ecology I
+
+<a href="Lectures/33_Applied_EvoEco_3.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/YCek_3MktaZaehC1mT9lkcdEF-IOa6HYNAl9Vcvoqf58tYT1yOmlI_dSb0KtWfr1.8Gmf3hRsT5YZ0adc?startTime=1648854421000" target="_blank">Recording.</a>
+
+#### Lecture 34 - Road Ecology II
+
+<a href="Lectures/34_Applied_EvoEco_4.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/5CJtRpNqQDb6lIiePyj_5igdUX8sue4JoOXrU88lK9yMqqJHrxNwvzkySdiVSJ-S.8Tmy71QR2uLNZ4YJ?startTime=1649113375000" target="_blank">Recording.</a>
+
+#### Lecture 35 - Ecological and Evolutionary Responses to Recent Climate Change I
+
+<a href="Lectures/35_Applied_EvoEco_5_ClimateChange.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/OXKHHXYFY0EBawCImEfHJfbn817mBUKbssM_45p4azZG1YDcoFaS82U3TAc3bLWT.Rk7MbfBhX32mA7ZZ?startTime=1649286097000" target="_blank">Recording.</a>
+
+#### Lecture 36 - Ecological and Evolutionary Responses to Recent Climate Change II
+
+<a href="Lectures/36_Applied_EvoEco_6_ClimateChangeII.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/Af0s-ie5u52H9PYuPIQqalBXFS55IcjOPSB-SnbTda_fdS0KJ0gCdmG8RVTr_n8o.nm3r3f8_70iYRSIe" target="_blank">Recording.</a>
+
+#### Lecture 37 - The Scope of Evolutionary Ecology Revisited
+
+<a href="Lectures/37_EcoEvo_Scope_Revisited.pdf" target="_blank">Slides.</a>
+
+<a href="https://ubc.zoom.us/rec/share/RXmMoBKKj41T3nRXqdPGEZhdktBFOF1ZiFtnDU45P6Pi0WyTzOmAPScVhpbODEQK.5iQ_38DFSzEI7u5z" target="_blank">Recording.</a>
