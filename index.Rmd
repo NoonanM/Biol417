@@ -95,7 +95,7 @@ Beginning the second week of the semester, students will be asked to write a sho
 
 __Submission__: It is expected that the assignment be submitted via Canvas as a word document or PDF (your choice). Paper summaries submitted by email will not be accepted unless agreed upon beforehand with the instructor. There are 8 assignments in total, but students only have to submit 6 of them. The choice of which assignments to submit is their. If a student chooses to submit all 8, the additional assignments will count as bonus assignments worth __2.5%__ of your final grade each
 
-__Grading__: Each summary will be marked on composition (i.e., spelling and grammatical competence), comprehension & logic, clarity, and coverage of points i)-v) listed above, and will be worth a total of 4% of your final grade. Late assignments will have 10% deducted per day that they are overdue and will receive a grade of zero if more than 10 days late without a valid reason.
+__Grading__: Each summary will be marked on composition (i.e., spelling and grammatical competence), comprehension & logic, clarity, and coverage of points i)-v) listed above, and will be worth a total of 4% of your final grade. Late assignments will have 5% deducted per day that they are overdue and will receive a grade of zero if more than 20 days late without a valid reason.
  
 <br />
 
@@ -104,7 +104,7 @@ Students will be asked to complete three written essay assignments throughout th
 
 __Submission__: Essays are to be submitted as word documents or PDFs (your choice) and uploaded to canvas before the due date. The essays should be a minimum of five pages in length (double spaced using a 12-point font). Include references to all necessary literature in a format of your choosing. References must be included, but do not count towards the total length. 
 
-__Grading__: Each essay will be graded based on the pre-provided rubric, and will be worth a total of 16% of your final grade. Late essays will have 10% deducted per day that they are overdue and will receive a grade of zero if more than 10 days late without a valid reason.
+__Grading__: Each essay will be graded based on the pre-provided rubric, and will be worth a total of 16% of your final grade. Late essays will have 5% deducted per day that they are overdue and will receive a grade of zero if more than 20 days late without a valid reason.
 
 Some useful guidance on writing essays can be found here:
 
@@ -116,24 +116,44 @@ https://www.grammarly.com/blog/essay-writing/
 <br />
 
 ### Research Proposal (22%)
-Students will prepare a research proposal that will review a topic in evolutionary ecology and outline a plan to address a research question that would advance the field. The proposal should be comprised of the following five sections:
+Students will work in groups (minimum 2 maximum 4) to prepare a research proposal that will review a topic in evolutionary ecology and outline a plan to address a research question that would advance the field. Students will also have to prepare a budget with a maximum value of \$500,000 CAD. The proposal should be comprised of the following sections:
 
-_Introduction_: Provide a description of the system on which the proposed project will focus, citing all relevant literature. Explain what big picture question you are addressing, what work has been done on this topic to date, and why the system you have chosen to work with is a good model for tackling this research question. Length: ca. 2 pages.
+_Introduction_: Provide a description of the system on which the proposed project will focus, citing all relevant literature. Explain what big picture question you are addressing, what work has been done on this topic to date, and why the system you have chosen to work with is a good model for tackling this research question. Length: ca. 3 pages.
 
 _Objectives_: Outline of the key objective(s) the proposed research is aimed at addressing. Provide details on how these objectives will provide information on the big picture question you have set up in the introduction. Length: ca. 1/2 page.
 
-_Methods_: Describe the experimental setup, how the data would be collected and what variables are included. There should be enough information that anyone can use your methods section to carry out the proposed research. Length: ca. 2 pages.
+_Team_: Describe the research team and how each person's strengths will contribute to achieving the overarching research goal. Length: ca. 1/2 page.
+
+_Methods_: Describe the experimental setup, how the data would be collected and what variables are included. There should be enough information that anyone can use your methods section to carry out the proposed research. Length: ca. 4 pages.
 
 _Significance of the proposed research_: Describe the significance of the study to the field of evolutionary ecology. For instance, what new insights/information will this study yield, what question would it put to rest, how it will benefit the field. Simply put, convince the reader why this work needs to be conducted. Length: ca. 1/2 page.
 
+_Project timeline_: A visual depiction of the project timeline (e.g., a Gantt chart or similar) including important milestones, as well as information on who will be assigned to each portion of the project. Length: ca. 1/2 page.
+
 _References_: Include references to all necessary literature.
+
+
+In addition, the students must prepare a budget detailing how the available funds will be used. The budget should be prepared using the pre-provided excel spreadsheet. Important items to consider when preparing the budget include (but are not limited to):
+
+The cost of personnel (MSc student = \$17,500/year, PhD student = \$21,000/year, Postdoctoral fellow, \$50,000/year, field/lab technicians = variable).
+
+The cost of Equipment (variable).
+
+The cost of publishing manuscripts (ca. \$5,000 CAD/paper).
+
+Conference and fieldwork travel to collect data and share findings.
+
+University overhead (the university will take 25% of your total budget as overhead to cover operational costs).
 
  
 __Submission__: Research proposals are to be submitted as word documents or PDFs (your choice) and uploaded to canvas before the due date. Research proposals have a maximum length of 5 pages (double spaced using a 12-point font). Figures can be used throughout and are encouraged. References should be included with the proposals but do not count towards the total length.
 
-__Grading__: The research proposal will be graded out of 100 and will be worth a total of 20% of your final grade. Late assignments will have 10% deducted per day that they are overdue and will receive a grade of zero if more than 10 days late without a valid excuse.
+__Grading__: The research proposal will be graded out of 100 and will be worth a total of 20% of your final grade. Late assignments will have 5% deducted per day that they are overdue and will receive a grade of zero if more than 20 days late without a valid excuse.
 
 <br />
+
+### Late Policy
+Late assignments will have 5% deducted per day that they are overdue and will receive a grade of zero if more than 20 days late without a valid excuse. However, students can submit one assignment without any late penalty. Students can submit the selected assignment at any time before the final submission of grades, irrespective of when it was originally due and can still receive full grades.
 
 ***
 ## Lecture Outline
