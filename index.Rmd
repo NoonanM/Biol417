@@ -95,7 +95,7 @@ Beginning the second week of the semester, students will be asked to write a sho
 
 __Submission__: It is expected that the assignment be submitted via Canvas as a word document or PDF (your choice). Paper summaries submitted by email will not be accepted unless agreed upon beforehand with the instructor. There are 8 assignments in total, but students only have to submit 6 of them. The choice of which assignments to submit is their. If a student chooses to submit all 8, the additional assignments will count as bonus assignments worth __2.5%__ of your final grade each
 
-__Grading__: Each summary will be marked on composition (i.e., spelling and grammatical competence), comprehension & logic, clarity, and coverage of points i)-v) listed above, and will be worth a total of 4% of your final grade. Late assignments will have 5% deducted per day that they are overdue and will receive a grade of zero if more than 20 days late without a valid reason.
+__Grading__: Each summary will be marked on composition (i.e., spelling and grammatical competence), comprehension & logic, clarity, and coverage of points i)-v) listed above, and will be worth a total of 5% of your final grade. Late assignments will have 5% deducted per day that they are overdue and will receive a grade of zero if more than 20 days late without a valid reason.
  
 <br />
 
@@ -146,7 +146,7 @@ Conference and fieldwork travel to collect data and share findings.
 University overhead (the university will take 25% of your total budget as overhead to cover operational costs).
 
  
-__Submission__: Research proposals are to be submitted as word documents or PDFs (your choice) and uploaded to canvas before the due date. Research proposals have a maximum length of 5 pages (double spaced using a 12-point font). Figures can be used throughout and are encouraged. References should be included with the proposals but do not count towards the total length.
+__Submission__: Research proposals are to be submitted as word documents or PDFs (your choice) and uploaded to canvas before the due date. Research proposals have a maximum length of 10 pages (double spaced using a 12-point font). Figures can be used throughout and are encouraged. References should be included with the proposals but do not count towards the total length.
 
 __Grading__: The research proposal will be graded out of 100 and will be worth a total of 20% of your final grade. Late assignments will have 5% deducted per day that they are overdue and will receive a grade of zero if more than 20 days late without a valid excuse.
 
@@ -154,6 +154,8 @@ __Grading__: The research proposal will be graded out of 100 and will be worth a
 
 ### Late Policy
 Late assignments will have 5% deducted per day that they are overdue and will receive a grade of zero if more than 20 days late without a valid excuse. However, students can submit one assignment without any late penalty. Students can submit the selected assignment at any time before the final submission of grades, irrespective of when it was originally due and can still receive full grades.
+
+<br />
 
 ***
 ## Lecture Outline
