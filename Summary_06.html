@@ -13,7 +13,7 @@
 
 <title>Course lectures for Biol 417: Evolutionary Ecology</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -145,11 +145,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -178,8 +182,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,16 +191,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -391,7 +388,8 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Course lectures for Biol 417: Evolutionary Ecology</h1>
+<h1 class="title toc-ignore">Course lectures for Biol 417: Evolutionary
+Ecology</h1>
 
 </div>
 
@@ -399,22 +397,37 @@ div.tocify {
 <div id="paper-summary-06" class="section level2">
 <h2>Paper Summary 06</h2>
 <p><strong>Assigned paper</strong>:</p>
-<p>Lukas, D., &amp; Clutton-Brock, T. H. (2013). The evolution of social monogamy in mammals. Science, 341(6145), 526-530. <a href="https://doi.org/10.1126/science.1238677" class="uri">https://doi.org/10.1126/science.1238677</a></p>
+<p>Lukas, D., &amp; Clutton-Brock, T. H. (2013). The evolution of social
+monogamy in mammals. Science, 341(6145), 526-530. <a
+href="https://doi.org/10.1126/science.1238677"
+class="uri">https://doi.org/10.1126/science.1238677</a></p>
 <p><strong>Instructions</strong>:</p>
-<p>The paper summaries should be no longer than one page (single spaced using a 12-point font). References should be included with the report but do not count towards the total length. The following points should be covered (not necessarily in the order given):</p>
+<p>The paper summaries should be no longer than one page (single spaced
+using a 12-point font). References should be included with the report
+but do not count towards the total length. The following points should
+be covered (not necessarily in the order given):</p>
 <ul>
 <li>What is/are the issue(s) addressed by the paper?</li>
-<li>What is the underlying research approach taken by the paper (e.g., a manipulative experiment, a correlational study, a theoretical model, a literature review, etc.)?</li>
-<li>What are the main results and what conclusions are expected to be drawn from the paper?</li>
-<li>How much confidence in the obtained results are implied by the author(s)?</li>
+<li>What is the underlying research approach taken by the paper (e.g., a
+manipulative experiment, a correlational study, a theoretical model, a
+literature review, etc.)?</li>
+<li>What are the main results and what conclusions are expected to be
+drawn from the paper?</li>
+<li>How much confidence in the obtained results are implied by the
+author(s)?</li>
 <li>Is this confidence justified in your opinion?
 <ul>
 <li>were the authors scrupulous in discussing their results?</li>
-<li>were there any weaknesses or limitations in the approach used by the authors?</li>
-<li>can you think of an alternative interpretation not discussed by the authors?</li>
+<li>were there any weaknesses or limitations in the approach used by the
+authors?</li>
+<li>can you think of an alternative interpretation not discussed by the
+authors?</li>
 </ul></li>
 </ul>
-<p><strong>Submission</strong>: It is expected that the assignment be submitted via Canvas as a word document or PDF (your choice). Paper summaries submitted by email will not be accepted unless agreed upon beforehand with the instructor.</p>
+<p><strong>Submission</strong>: It is expected that the assignment be
+submitted via Canvas as a word document or PDF (your choice). Paper
+summaries submitted by email will not be accepted unless agreed upon
+beforehand with the instructor.</p>
 </div>
 
 

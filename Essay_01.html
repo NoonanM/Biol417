@@ -13,7 +13,7 @@
 
 <title>Course lectures for Biol 417: Evolutionary Ecology</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -145,11 +145,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -178,8 +182,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -187,16 +191,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -391,23 +388,42 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Course lectures for Biol 417: Evolutionary Ecology</h1>
+<h1 class="title toc-ignore">Course lectures for Biol 417: Evolutionary
+Ecology</h1>
 
 </div>
 
 
 <p><strong>Essay Question</strong>:</p>
-<p>Pick any location on Earth. Describe the local conditions and how these will shape the evolution of organisms living in the location you have chosen.</p>
+<p>Pick any location on Earth. Describe the local conditions and how
+these will shape the evolution of organisms living in the location you
+have chosen.</p>
 <p><em>Points to consider</em>:</p>
-<p>How do basic physical principles and the local geography interact to dictate the local environmental conditions?</p>
-<p>How do the resulting environmental conditions, which resources are likely to be abundant, which resources are likely to be scarce, and the benefits/challenges that these conditions provide to living organisms?</p>
+<p>How do basic physical principles and the local geography interact to
+dictate the local environmental conditions?</p>
+<p>How do the resulting environmental conditions, which resources are
+likely to be abundant, which resources are likely to be scarce, and the
+benefits/challenges that these conditions provide to living
+organisms?</p>
 <p><strong>Useful Resources</strong>:</p>
 <ul>
-<li>Pianka, E. R. (1999). Evolutionary ecology. Benjamin Cummings. Chapters 2-5.</li>
+<li>Pianka, E. R. (1999). Evolutionary ecology. Benjamin Cummings.
+Chapters 2-5.</li>
 </ul>
 <p><strong>Instructions:</strong></p>
-<p>You are expected to write an essay addressing the above topic or question using the material covered in class, as well as additional sources from the scientific literature. The resources listed above are a useful place to start, but will not be sufficient. You can expect the material covered in the lectures will provide sufficient information for structuring the essay around the assigned topic but are also expected to expand beyond the material covered in the lectures.</p>
-<p><strong>Submission</strong>: Essays are to be submitted as word documents or PDFs (your choice) and uploaded to canvas before the due date. The essays should be a minimum of five pages in length (double spaced using a 12-point font). Include references to all necessary literature in a format of your choosing. References must be included, but do not count towards the total length.</p>
+<p>You are expected to write an essay addressing the above topic or
+question using the material covered in class, as well as additional
+sources from the scientific literature. The resources listed above are a
+useful place to start, but will not be sufficient. You can expect the
+material covered in the lectures will provide sufficient information for
+structuring the essay around the assigned topic but are also expected to
+expand beyond the material covered in the lectures.</p>
+<p><strong>Submission</strong>: Essays are to be submitted as word
+documents or PDFs (your choice) and uploaded to canvas before the due
+date. The essays should be a minimum of five pages in length (double
+spaced using a 12-point font). Include references to all necessary
+literature in a format of your choosing. References must be included,
+but do not count towards the total length.</p>
 
 
 
