@@ -82,7 +82,9 @@ Lecture slides and recordings for Biol 417: Evolutionary Ecology, 2022 & 2023.
 
 <a href="Lectures/07_Meteorology.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/0g3Lmd4oLng3jJBfKeWT-tV7xTbVUjcnLbEEPO2hrNTer3gHxp-NFmcR9Oe6LsOA.aKXmPxijXNIxSWxd?startTime=1643068907000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/02VZbc4KLB8iw2L3l3b9uaAiYuC8VogBhP1qJaSeqgfdSn5HrmN-YU5AbWsoGiCC.WBNXgw7BL9y0Bv_r" target="_blank">Recording - 2023.</a>
+
+<a href="https://ubc.zoom.us/rec/share/0g3Lmd4oLng3jJBfKeWT-tV7xTbVUjcnLbEEPO2hrNTer3gHxp-NFmcR9Oe6LsOA.aKXmPxijXNIxSWxd?startTime=1643068907000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 08 - The Habitat Templet
 
