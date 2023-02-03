@@ -90,13 +90,17 @@ Lecture slides and recordings for Biol 417: Evolutionary Ecology, 2022 & 2023.
 
 <a href="Lectures/08_HabitatTemplet.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/GglBTG8DgdSPBd2NntpWi1NCkrRivuQ332kbSdOdeEJz1ieWmKkSr70NEuhD27Rz.I_w7HWan4BCRqp7P?startTime=1643241709000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/1595EX1e1qCSugxAncl1grOQ2KGwn4foRJlqowXWYhUAmEuffXq5Cx-8lg7ZEexW.WAAMRLJF3WKzROT7" target="_blank">Recording - 2023.</a>
+
+<a href="https://ubc.zoom.us/rec/share/GglBTG8DgdSPBd2NntpWi1NCkrRivuQ332kbSdOdeEJz1ieWmKkSr70NEuhD27Rz.I_w7HWan4BCRqp7P?startTime=1643241709000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 09 - Biogeography
 
 <a href="Lectures/09_Biogeography.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/Ld8vjHLYrIo2PK_uEleUobpyGGjSHcnHzfZ5p_WU8_pTHX76Blc_Q0V4pVQYlff9.-iSyRq8cBEEJ8Dpe?startTime=1643414433000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/vqxuo_aHo1O93cLea4kXnGuXiORrc9fVqH2CurO0au_JiQvQrzFPUXhrZ9RyzMNe.XvNhnpgYj0de_VQe" target="_blank">Recording - 2023.</a>
+
+<a href="https://ubc.zoom.us/rec/share/Ld8vjHLYrIo2PK_uEleUobpyGGjSHcnHzfZ5p_WU8_pTHX76Blc_Q0V4pVQYlff9.-iSyRq8cBEEJ8Dpe?startTime=1643414433000" target="_blank">Recording - 2022.</a>
 
 
 <br />
@@ -110,25 +114,29 @@ Lecture slides and recordings for Biol 417: Evolutionary Ecology, 2022 & 2023.
 
 <a href="Lectures/10_The_Ecological_Niche.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/D-31NVCP1jjJtuFaNglmGm1khU0Z2zsPXVyBF5-ghC2WFveAbwIArkWAVw21-guF.vD-gnSLJ6ATCon3g?startTime=1643673699000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/9SC0pfAfAE18TQflLps2kUR_prSnu7aB4sAQLPBzwA4DsgMLw7EFCp2nVwkRlv2R.mhNX6zSvSl9rAkEG" target="_blank">Recording - 2023.</a>
+
+<a href="https://ubc.zoom.us/rec/share/D-31NVCP1jjJtuFaNglmGm1khU0Z2zsPXVyBF5-ghC2WFveAbwIArkWAVw21-guF.vD-gnSLJ6ATCon3g?startTime=1643673699000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 11 - The Ecological Niche Part 2: Specialists vs. Generalists
 
 <a href="Lectures/11_The_Ecological_Niche.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/94H-jdhRxqAtnhVwVbdNVPXGaWFbIPz1IT5D8ZSj6MHgs9sWfi6Bgu3_Fzfz8x0j.d3iDiIuEpTdTSVbo?startTime=1643846438000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/uFSunydEjMbnifa6ConRqBGcxfmIFt1rbBEmnHET5UdSd7SVU_ZvGAdouZBnPJUP.FbbjCoXxLEt-zQBJ" target="_blank">Recording - 2023.</a>
+
+<a href="https://ubc.zoom.us/rec/share/94H-jdhRxqAtnhVwVbdNVPXGaWFbIPz1IT5D8ZSj6MHgs9sWfi6Bgu3_Fzfz8x0j.d3iDiIuEpTdTSVbo?startTime=1643846438000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 12 - The Ecological Niche Part 3: Specialists vs. Generalists II
 
 <a href="Lectures/12_The_Ecological_Niche_3.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/c7FoEfX7aD3ZiF73klzfBhuSld9hrPop6lx0aqPxqjD7k8pg99tMmhOmT0yAdXHi.intn6pCPSVwyjQ-y?startTime=1644019272000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/c7FoEfX7aD3ZiF73klzfBhuSld9hrPop6lx0aqPxqjD7k8pg99tMmhOmT0yAdXHi.intn6pCPSVwyjQ-y?startTime=1644019272000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 13 - The Ecological Niche Part 4: Environmental Adaptation
 
 <a href="Lectures/13_The_Ecological_Niche_4.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/0IQ8FRGqjfHlX3BHDyoefpgsCpFTbkvaeZ1am-OmzWs34j8ltqYQbH0Jhic2KI0.PIf1x9tK1m4y5Bdi?startTime=1644278387000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/0IQ8FRGqjfHlX3BHDyoefpgsCpFTbkvaeZ1am-OmzWs34j8ltqYQbH0Jhic2KI0.PIf1x9tK1m4y5Bdi?startTime=1644278387000" target="_blank">Recording - 2022.</a>
 
 <br />
 
@@ -141,37 +149,37 @@ Lecture slides and recordings for Biol 417: Evolutionary Ecology, 2022 & 2023.
 
 <a href="Lectures/14_Change_Specialists.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/KDAzfWcF2Iqu5_7Fu9vmRUVYDv-O4-rG7JvpauRvY7jzbiq6eJDHsljXI6HZ3iBx.vR9HlCehSONqziTR?startTime=1644451113000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/KDAzfWcF2Iqu5_7Fu9vmRUVYDv-O4-rG7JvpauRvY7jzbiq6eJDHsljXI6HZ3iBx.vR9HlCehSONqziTR?startTime=1644451113000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 15 - Specialising on Change Part 2: Dormancy
 
 <a href="Lectures/15_Change_Specialists_2.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/qkiEKPnrxklU9eHj-mR459B3BwK-Skf8GBpUhRIjC3A-dpwTtXgYhZxWh_5gI0gT.h7raeEUYus06tB68?startTime=1644624036000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/qkiEKPnrxklU9eHj-mR459B3BwK-Skf8GBpUhRIjC3A-dpwTtXgYhZxWh_5gI0gT.h7raeEUYus06tB68?startTime=1644624036000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 16 - Specialising on Change Part 3: Energetics
 
 <a href="Lectures/16_Change_Specialists_3.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/hwtyUz3mBXSTy1EqTuQsemektW73hy479YWPVPIWNikFEOIPW-_o-gfggZMRimgI.4Qc_z34EnHVoI3TC?startTime=1644883109000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/hwtyUz3mBXSTy1EqTuQsemektW73hy479YWPVPIWNikFEOIPW-_o-gfggZMRimgI.4Qc_z34EnHVoI3TC?startTime=1644883109000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 17 - Specialising on Change Part 4: Burrowing
 
 <a href="Lectures/17_Change_Specialists_4.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/zgxuCrNOvaBLSFZrbmk1XQbwRvGQ1PMx990VyCD8rK3fZuTKLwvSBMe2-0hms38.8fs-rXN557mMnawx?startTime=1645056034000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/zgxuCrNOvaBLSFZrbmk1XQbwRvGQ1PMx990VyCD8rK3fZuTKLwvSBMe2-0hms38.8fs-rXN557mMnawx?startTime=1645056034000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 18 - Specialising on Change Part 5: Correlative effects
 
 <a href="Lectures/18_Change_Specialists_5.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/pVluC5IRpdsTyp7xrJT_x8pb_RH0tKmIHizTZ4X1yE16VHjg1_mX8CtGqajrSUA.j_bOQExKXnexfH1A?startTime=1645228971000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/pVluC5IRpdsTyp7xrJT_x8pb_RH0tKmIHizTZ4X1yE16VHjg1_mX8CtGqajrSUA.j_bOQExKXnexfH1A?startTime=1645228971000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 19 - Specialising on Change Part 6: Stochasticity and space use
 
 <a href="Lectures/19_Change_Specialists_6.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/iWD0HCgVewKt3gnUqgqOG5lQbOT6IX4NIOn2TlR1dkstaiZZ4f9Mgp_pZuDrDf8.Xqs0re1fPEc5lyCQ?startTime=1646266041000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/iWD0HCgVewKt3gnUqgqOG5lQbOT6IX4NIOn2TlR1dkstaiZZ4f9Mgp_pZuDrDf8.Xqs0re1fPEc5lyCQ?startTime=1646266041000" target="_blank">Recording - 2022.</a>
 
 <br />
 
@@ -184,7 +192,7 @@ Lecture slides and recordings for Biol 417: Evolutionary Ecology, 2022 & 2023.
 
 <a href="Lectures/20_Metabolic_Theory.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/V60S9DAdGmxNR5SDg1SAJB2GlPaYIVkxppfs2D-vcVAiFLcos98IiF0vgEOR9uoD.LBkuLZNFpal26tgt?startTime=1646092925000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/V60S9DAdGmxNR5SDg1SAJB2GlPaYIVkxppfs2D-vcVAiFLcos98IiF0vgEOR9uoD.LBkuLZNFpal26tgt?startTime=1646092925000" target="_blank">Recording - 2022.</a>
 
 <br />
 
@@ -197,37 +205,37 @@ Lecture slides and recordings for Biol 417: Evolutionary Ecology, 2022 & 2023.
 
 <a href="Lectures/21_Sex_Ecology_1.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/5l9XiphOtfsZP60pWam4Gsqr2SlYmwYxeABWS2AvZfbMtavEZX4G19i8C6vcl0gY.hCHYa5xyPmykx6yr?startTime=1646438495000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/5l9XiphOtfsZP60pWam4Gsqr2SlYmwYxeABWS2AvZfbMtavEZX4G19i8C6vcl0gY.hCHYa5xyPmykx6yr?startTime=1646438495000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 22 - The Ecology of Sex Part 2: The Ecology of Sex
 
 <a href="Lectures/22_Sex_Ecology_2.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/FkmyqyccxITkq30_qTJFv_bFKBWaBJiZOMP2Lw-RbUpjlO9LaeXPmMMQMRe6TSZC.QtyWIAx741pqI4tt?startTime=1646697629000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/FkmyqyccxITkq30_qTJFv_bFKBWaBJiZOMP2Lw-RbUpjlO9LaeXPmMMQMRe6TSZC.QtyWIAx741pqI4tt?startTime=1646697629000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 23 - The Ecology of Sex Part 3: Males and Females
 
 <a href="Lectures/23_Sex_Ecology_3.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/_qDh2TGDI-cs6l_Ja-VYxmSfr7f9m5TYoljQLlspg0g0iPz_XJsyOW-KpZHXHJVV.S7jENPbVkl9jJ4id?startTime=1646870382000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/_qDh2TGDI-cs6l_Ja-VYxmSfr7f9m5TYoljQLlspg0g0iPz_XJsyOW-KpZHXHJVV.S7jENPbVkl9jJ4id?startTime=1646870382000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 24 - The Ecology of Sex Part 4: Sex Ratios
 
 <a href="Lectures/24_Sex_Ecology_4.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/iDugvikrRQ_Ac18mMeKS7_SPXxBF-sN422dzXJlQa7c28vMQ0KAGCTxPmqmqFi9H.NbuXboYUHHfXAl9T?startTime=1647043235000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/iDugvikrRQ_Ac18mMeKS7_SPXxBF-sN422dzXJlQa7c28vMQ0KAGCTxPmqmqFi9H.NbuXboYUHHfXAl9T?startTime=1647043235000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 25 - The Ecology of Sex Part 5: Sexual Selection
 
 <a href="Lectures/25_Sex_Ecology_5.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/bl4i64jRdQj1LASayjNt5wOp630lOrosN1iUxXovUaA9nQW23T22sX2ZOu5WRQXI.FE9W66aGaoBuZzd_?startTime=1647298874000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/bl4i64jRdQj1LASayjNt5wOp630lOrosN1iUxXovUaA9nQW23T22sX2ZOu5WRQXI.FE9W66aGaoBuZzd_?startTime=1647298874000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 26 - The Ecology of Sex Part 6: Mating Systems
 
 <a href="Lectures/26_Sex_Ecology_6.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/5TaaaZibp2p9t5KQPXQ_qtwqmB3KV0cLzUpg1QT9sxhLlD8Qed8kAgL-VV1OYF2J.12qBYWtFPnce4tb7?startTime=1647471627000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/5TaaaZibp2p9t5KQPXQ_qtwqmB3KV0cLzUpg1QT9sxhLlD8Qed8kAgL-VV1OYF2J.12qBYWtFPnce4tb7?startTime=1647471627000" target="_blank">Recording - 2022.</a>
 
 <br />
 
@@ -240,25 +248,25 @@ Lecture slides and recordings for Biol 417: Evolutionary Ecology, 2022 & 2023.
 
 <a href="Lectures/27_Sociality_1.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/3g6NEiyJ5Nmxd6Mj1JfKvxKCDcLRiADilgUbvyv2pmOTcILWjLQJx_YVicma0W4j.dh2cI5bq0kcd2oM9?startTime=1647644438000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/3g6NEiyJ5Nmxd6Mj1JfKvxKCDcLRiADilgUbvyv2pmOTcILWjLQJx_YVicma0W4j.dh2cI5bq0kcd2oM9?startTime=1647644438000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 28 - Socio-ecology Part 2: Mating systems and Resource Dispersion
 
 <a href="Lectures/28_Sociality_2.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/_9OTeML982xQdqXyoaDSyyZmyX6xyXcWxp9i6NqCPitJVvTOJ80lCyK9plt_NMF8.0LR8IxF7VOBkSWQH?startTime=1647903613000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/_9OTeML982xQdqXyoaDSyyZmyX6xyXcWxp9i6NqCPitJVvTOJ80lCyK9plt_NMF8.0LR8IxF7VOBkSWQH?startTime=1647903613000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 29 - Socio-ecology Part 3: Philopatry and Delayed Dispersal
 
 <a href="Lectures/29_Sociality_3.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/kmNvxJKDGxn1k41LyEffgGhd-0sd9s1TzLH3yQYvoiQW2yxIdTcW6WIvMvjF8Ds.P4uvOCWMwcjbBAK3?startTime=1648076697000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/kmNvxJKDGxn1k41LyEffgGhd-0sd9s1TzLH3yQYvoiQW2yxIdTcW6WIvMvjF8Ds.P4uvOCWMwcjbBAK3?startTime=1648076697000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 30 - Socio-ecology Part 4: Why Are British Badgers Social?
 
 <a href="Lectures/30_Sociality_4.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/SYnctZ_WitdR5m3eyYYip551LJUr7eY45F0qF2XuErfP795kKj1Y02Ba0BjbBGin.ksGk1lzVvoYzBsKI?startTime=1648249218000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/SYnctZ_WitdR5m3eyYYip551LJUr7eY45F0qF2XuErfP795kKj1Y02Ba0BjbBGin.ksGk1lzVvoYzBsKI?startTime=1648249218000" target="_blank">Recording - 2022.</a>
 
 <br />
 
@@ -271,40 +279,40 @@ Lecture slides and recordings for Biol 417: Evolutionary Ecology, 2022 & 2023.
 
 <a href="Lectures/31_Applied_EvoEco_1.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/4FGt8Grh1dCrscxYToR8-Nbv9rUV5dIF5S2ZNIl6U3O9C-oKprEYZFF6kLlZPKr5.CD3CsRR7GqpE632Q?startTime=1648508559000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/4FGt8Grh1dCrscxYToR8-Nbv9rUV5dIF5S2ZNIl6U3O9C-oKprEYZFF6kLlZPKr5.CD3CsRR7GqpE632Q?startTime=1648508559000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 32 - Evolutionary Traps
 
 <a href="Lectures/32_Applied_EvoEco_2.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/IzXdqk_VFLJVvNo-u0MCFkwHBsN8fVS20MtS7oIC8BxKu02pLDirDTZAaaSkJQME.2Nnoqohn6RjN792q?startTime=1648681234000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/IzXdqk_VFLJVvNo-u0MCFkwHBsN8fVS20MtS7oIC8BxKu02pLDirDTZAaaSkJQME.2Nnoqohn6RjN792q?startTime=1648681234000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 33 - Road Ecology I
 
 <a href="Lectures/33_Applied_EvoEco_3.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/YCek_3MktaZaehC1mT9lkcdEF-IOa6HYNAl9Vcvoqf58tYT1yOmlI_dSb0KtWfr1.8Gmf3hRsT5YZ0adc?startTime=1648854421000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/YCek_3MktaZaehC1mT9lkcdEF-IOa6HYNAl9Vcvoqf58tYT1yOmlI_dSb0KtWfr1.8Gmf3hRsT5YZ0adc?startTime=1648854421000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 34 - Road Ecology II
 
 <a href="Lectures/34_Applied_EvoEco_4.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/5CJtRpNqQDb6lIiePyj_5igdUX8sue4JoOXrU88lK9yMqqJHrxNwvzkySdiVSJ-S.8Tmy71QR2uLNZ4YJ?startTime=1649113375000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/5CJtRpNqQDb6lIiePyj_5igdUX8sue4JoOXrU88lK9yMqqJHrxNwvzkySdiVSJ-S.8Tmy71QR2uLNZ4YJ?startTime=1649113375000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 35 - Ecological and Evolutionary Responses to Recent Climate Change I
 
 <a href="Lectures/35_Applied_EvoEco_5_ClimateChange.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/OXKHHXYFY0EBawCImEfHJfbn817mBUKbssM_45p4azZG1YDcoFaS82U3TAc3bLWT.Rk7MbfBhX32mA7ZZ?startTime=1649286097000" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/OXKHHXYFY0EBawCImEfHJfbn817mBUKbssM_45p4azZG1YDcoFaS82U3TAc3bLWT.Rk7MbfBhX32mA7ZZ?startTime=1649286097000" target="_blank">Recording - 2022.</a>
 
 #### Lecture 36 - Ecological and Evolutionary Responses to Recent Climate Change II
 
 <a href="Lectures/36_Applied_EvoEco_6_ClimateChangeII.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/Af0s-ie5u52H9PYuPIQqalBXFS55IcjOPSB-SnbTda_fdS0KJ0gCdmG8RVTr_n8o.nm3r3f8_70iYRSIe" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/Af0s-ie5u52H9PYuPIQqalBXFS55IcjOPSB-SnbTda_fdS0KJ0gCdmG8RVTr_n8o.nm3r3f8_70iYRSIe" target="_blank">Recording - 2022.</a>
 
 #### Lecture 37 - The Scope of Evolutionary Ecology Revisited
 
 <a href="Lectures/37_EcoEvo_Scope_Revisited.pdf" target="_blank">Slides.</a>
 
-<a href="https://ubc.zoom.us/rec/share/RXmMoBKKj41T3nRXqdPGEZhdktBFOF1ZiFtnDU45P6Pi0WyTzOmAPScVhpbODEQK.5iQ_38DFSzEI7u5z" target="_blank">Recording.</a>
+<a href="https://ubc.zoom.us/rec/share/RXmMoBKKj41T3nRXqdPGEZhdktBFOF1ZiFtnDU45P6Pi0WyTzOmAPScVhpbODEQK.5iQ_38DFSzEI7u5z" target="_blank">Recording - 2022.</a>
