@@ -11,9 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 __Assigned paper__:
 
-Lukas, D., & Clutton-Brock, T. H. (2013). The evolution of social monogamy in mammals. Science, 341(6145), 526-530. https://doi.org/10.1126/science.1238677
+<!-- Lukas, D., & Clutton-Brock, T. H. (2013). The evolution of social monogamy in mammals. Science, 341(6145), 526-530. https://doi.org/10.1126/science.1238677 -->
 
- 
+Hebblewhite, M., & Pletscher, D. H. (2002). Effects of elk group size on predation by wolves. Canadian Journal of Zoology, 80(5), 800-809. https://doi.org/10.1139/z02-059
 
 __Instructions__:
 

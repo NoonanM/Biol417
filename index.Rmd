@@ -55,7 +55,7 @@ Weekly lectures. There are no midterm or final examinations for this course. Gra
 
 There is no textbook for this course, but if students are interested in additional resources beyond the material covered in the lectures, the following textbooks are recommended:
 
-* Pianka, E. R. (1999). Evolutionary ecology. Benjamin Cummings. ISBN 0321042883. Available digitally via: http://www.zo.utexas.edu/courses/bio373/ERP-EvolEcol.html
+* Pianka, E. R. (1999). Evolutionary ecology. Benjamin Cummings. ISBN 0321042883. Available digitally via: https://books.google.ca/books/about/Evolutionary_ecology.html?id=giFL5bonGhQC&redir_esc=y
 
 * Cockburn, A. (1991). An introduction to evolutionary ecology. Wiley-Blackwell. ISBN 0632027290. Available via UBC libraries: http://resolve.library.ubc.ca/cgi-bin/catsearch?bid=832278 
 
@@ -93,22 +93,21 @@ Beginning the second week of the semester, students will be asked to write a sho
     - were there any weaknesses or limitations in the approach used by the authors?
     - can you think of an alternative interpretation not discussed by the authors?
 
-__Submission__: It is expected that the assignment be submitted via Canvas as a word document or PDF (your choice). Paper summaries submitted by email will not be accepted unless agreed upon beforehand with the instructor. There are 8 assignments in total, but students only have to submit 6 of them. The choice of which assignments to submit is their. If a student chooses to submit all 8, the additional assignments will count as bonus assignments worth __2.5%__ of your final grade each
+__Submission__: It is expected that the assignment be submitted via Canvas as a word document or PDF (your choice). Paper summaries submitted by email will not be accepted unless agreed upon beforehand with the instructor. There are 8 assignments in total, but students only have to submit 6 of them. The choice of which assignments to submit is their. If a student chooses to submit all 8, __only the best 6__ will count towards your final grade.
 
 __Grading__: Each summary will be marked on composition (i.e., spelling and grammatical competence), comprehension & logic, clarity, and coverage of points i)-v) listed above, and will be worth a total of 5% of your final grade. Late assignments will have 5% deducted per day that they are overdue and will receive a grade of zero if more than 20 days late without a valid reason.
  
 <br />
 
 ### Essays (48%- 3 essays at 16% each)
-Students will be asked to complete three written essay assignments throughout the course (schedule below). These assignments are designed to provide students with an opportunity to consolidate what they have learned in the lectures and apply this knowledge to topics in evolutionary ecology of their own choosing. For each of these essays, students will receive a topic or question – both Canvas and the course web page will host the essay questions. Students will then be expected to write an essay addressing that topic or question using the material covered in class, as well as additional sources from the scientific literature. Students can expect the material covered in the lectures will provide sufficient information for structuring the essay around the assigned topic but are also expected to expand beyond the material covered in the lectures. The skills gained by completing each essay will help students learn how to think critically about core evolutionary ecology concepts and clearly communicate their ideas in written format.
+Students will be asked to complete three written essay assignments throughout the course (schedule below). These assignments are designed to provide students with an opportunity to consolidate what they have learned in the lectures and apply this knowledge to topics in evolutionary ecology of their own choosing. For each of these essays, students will receive a topic or question – both Canvas and the course web page will host the essay questions. Students will then be expected to write an essay addressing that topic or question using the material covered in class, as well as additional sources from the scientific literature. Students can expect the material covered in the lectures will provide sufficient information for structuring the essay around the assigned topic but are also expected to expand beyond the material covered in the lectures. The use of figures is permitted, but do not count towards the length requirements. The skills gained by completing each essay will help students learn how to think critically about core evolutionary ecology concepts and clearly communicate their ideas in written format.
 
-__Submission__: Essays are to be submitted as word documents or PDFs (your choice) and uploaded to canvas before the due date. The essays should be a minimum of five pages in length (double spaced using a 12-point font). Include references to all necessary literature in a format of your choosing. References must be included, but do not count towards the total length. 
+__Submission__: Essays are to be submitted as word documents or PDFs (your choice) and uploaded to canvas before the due date. The essays should be a __minimum of five__ pages in length and __maximum of seven pages__ (double spaced using a 12-point font). Include references to all necessary literature in a format of your choosing. References must be included, but do not count towards the total length.
 
 __Grading__: Each essay will be graded based on the pre-provided rubric, and will be worth a total of 16% of your final grade. Late essays will have 5% deducted per day that they are overdue and will receive a grade of zero if more than 20 days late without a valid reason.
 
 Some useful guidance on writing essays can be found here:
 
-https://weblearn.ox.ac.uk/access/content/group/159bc1ca-0c7b-454c-8aad-c6c711affc04/Documents/acadwrit2013.pdf
 https://www.oxbridgeessays.com/blog/how-to-structure-an-essay/
 https://www.scribbr.com/category/academic-essay/
 https://www.grammarly.com/blog/essay-writing/
@@ -117,6 +116,8 @@ https://www.grammarly.com/blog/essay-writing/
 
 ### Research Proposal (22%)
 Students will work in groups (minimum 2 maximum 4) to prepare a research proposal that will review a topic in evolutionary ecology and outline a plan to address a research question that would advance the field. Students will also have to prepare a budget with a maximum value of \$500,000 CAD. The proposal should be comprised of the following sections:
+
+_Title page_: Must contain at minimum the project title, team member names and student identification numbers, and submission date. Does not count towards the length limit.
 
 _Introduction_: Provide a description of the system on which the proposed project will focus, citing all relevant literature. Explain what big picture question you are addressing, what work has been done on this topic to date, and why the system you have chosen to work with is a good model for tackling this research question. Length: ca. 3 pages.
 

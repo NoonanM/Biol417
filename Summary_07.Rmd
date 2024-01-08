@@ -11,9 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 __Assigned paper__:
 
-Mumme, R. L., Schoech, S. J., Woolfenden, G. E., & Fitzpatrick, J. W. (2000). Life and death in the fast lane: Demographic consequences of road mortality in the Florida Scrub‐Jay. Conservation biology, 14(2), 501-512. https://www.jstor.org/stable/2641615
+<!-- Mumme, R. L., Schoech, S. J., Woolfenden, G. E., & Fitzpatrick, J. W. (2000). Life and death in the fast lane: Demographic consequences of road mortality in the Florida Scrub‐Jay. Conservation biology, 14(2), 501-512. https://www.jstor.org/stable/2641615 -->
 
- 
+Noonan, M. J., Ascensão, F., Yogui, D. R., & Desbiez, A. L. (2022). Roads as ecological traps for giant anteaters. Animal Conservation, 25(2), 182-194. https://doi.org/10.1111/acv.12728
 
 __Instructions__:
 

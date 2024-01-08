@@ -11,9 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 __Assigned paper__:
 
-Turbill, C., Bieber, C., & Ruf, T. (2011). Hibernation is associated with increased survival and the evolution of slow life histories among mammals. Proceedings of the Royal Society B: Biological Sciences, 278(1723), 3355-3363. https://doi.org/10.1098/rspb.2011.0190
+<!-- Turbill, C., Bieber, C., & Ruf, T. (2011). Hibernation is associated with increased survival and the evolution of slow life histories among mammals. Proceedings of the Royal Society B: Biological Sciences, 278(1723), 3355-3363. https://doi.org/10.1098/rspb.2011.0190 -->
 
- 
+Winger, B. M., Auteri, G. G., Pegan, T. M., & Weeks, B. C. (2019). A long winter for the Red Queen: rethinking the evolution of seasonal migration. Biological Reviews, 94(3), 737-752. https://doi.org/10.1111/brv.12476
 
 __Instructions__:
 

@@ -11,9 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 __Assigned paper__:
 
-Safi, K., Cianciaruso, M. V., Loyola, R. D., Brito, D., Armour-Marshall, K., & Diniz-Filho, J. A. F. (2011). Understanding global patterns of mammalian functional and phylogenetic diversity. Philosophical Transactions of the Royal Society B: Biological Sciences, 366(1577), 2536-2544. https://doi.org/10.1098/rstb.2011.0024
+<!-- Safi, K., Cianciaruso, M. V., Loyola, R. D., Brito, D., Armour-Marshall, K., & Diniz-Filho, J. A. F. (2011). Understanding global patterns of mammalian functional and phylogenetic diversity. Philosophical Transactions of the Royal Society B: Biological Sciences, 366(1577), 2536-2544. https://doi.org/10.1098/rstb.2011.0024 -->
 
- 
+De Kort, H., Prunier, J. G., Ducatez, S., Honnay, O., Baguette, M., Stevens, V. M., & Blanchet, S. (2021). Life history, climate and biogeography interactively affect worldwide genetic diversity of plant and animal populations. Nature communications, 12(1), 516. https://doi.org/10.1038/s41467-021-20958-2 
 
 __Instructions__:
 

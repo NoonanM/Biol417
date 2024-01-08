@@ -11,9 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 __Assigned paper__:
 
-Mittelbach, G. G., Schemske, D. W., Cornell, H. V., Allen, A. P., Brown, J. M., Bush, M. B., ... & Turelli, M. (2007). Evolution and the latitudinal diversity gradient: speciation, extinction and biogeography. Ecology letters, 10(4), 315-331. https://doi.org/10.1111/j.1461-0248.2007.01020.x
+<!-- Mittelbach, G. G., Schemske, D. W., Cornell, H. V., Allen, A. P., Brown, J. M., Bush, M. B., ... & Turelli, M. (2007). Evolution and the latitudinal diversity gradient: speciation, extinction and biogeography. Ecology letters, 10(4), 315-331. https://doi.org/10.1111/j.1461-0248.2007.01020.x -->
 
- 
+Benítez-López, A., Santini, L., Gallego-Zamorano, J., Milá, B., Walkden, P., Huijbregts, M. A., & Tobias, J. A. (2021). The island rule explains consistent patterns of body size evolution in terrestrial vertebrates. Nature Ecology & Evolution, 5(6), 768-786. https://doi.org/10.1038/s41559-021-01426-y
 
 __Instructions__:
 

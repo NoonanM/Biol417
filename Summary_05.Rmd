@@ -11,9 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 __Assigned paper__:
 
+<!-- Bath, E., Edmunds, D., Norman, J., Atkins, C., Harper, L., Rostant, W. G., ... & Perry, J. C. (2021). Sex ratio and the evolution of aggression in fruit flies. Proceedings of the Royal Society B, 288(1947), 20203053. https://doi.org/10.1098/rspb.2020.3053 -->
+
+
 Bath, E., Edmunds, D., Norman, J., Atkins, C., Harper, L., Rostant, W. G., ... & Perry, J. C. (2021). Sex ratio and the evolution of aggression in fruit flies. Proceedings of the Royal Society B, 288(1947), 20203053. https://doi.org/10.1098/rspb.2020.3053
 
- 
 
 __Instructions__:
 

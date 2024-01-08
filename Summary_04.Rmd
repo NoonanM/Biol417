@@ -11,9 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 __Assigned paper__:
 
-Peters, W., Hebblewhite, M., Mysterud, A., Eacker, D., Hewison, A. M., Linnell, J. D., ... & Cagnacci, F. (2019). Large herbivore migration plasticity along environmental gradients in Europe: life‐history traits modulate forage effects. Oikos, 128(3), 416-429. https://doi.org/10.1111/oik.05588
+<!-- Peters, W., Hebblewhite, M., Mysterud, A., Eacker, D., Hewison, A. M., Linnell, J. D., ... & Cagnacci, F. (2019). Large herbivore migration plasticity along environmental gradients in Europe: life‐history traits modulate forage effects. Oikos, 128(3), 416-429. https://doi.org/10.1111/oik.05588 -->
 
- 
+Michelot, C., Leclerc, M., Taillon, J., Dussault, C., Hénault Richard, J., & Côté, S. D. (2023). Evidence of migratory coupling between grey wolves and migratory caribou. Oikos, e10150. https://doi.org/10.1111/oik.10150
+
+
 
 __Instructions__:
 
